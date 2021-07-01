@@ -36,8 +36,8 @@
 ### [4일차](2021-07-01.md)
 |구분|진행상태|학습시간|분야|과제명|비고|
 | ------ | ------ | ------ | ------ | ------ | ------ |
-|`필수`| :white_large_square: |4| [Infra](Infra) | [Jenkins + docker를 활용한 CI/CD구축](Infra/Jenkins-docker를-활용한-CI-CD구축) | |
-|`필수`| :white_large_square: |4| [부하테스트](부하테스트) | [Jmeter를 이용한 웹페이지 성능 측정](부하테스트/Jmeter를-이용한-웹페이지-성능-측정) | |
+|`필수`| :white_check_mark: |4| [Infra](Infra) | [Jenkins + docker를 활용한 CI/CD구축](Infra/Jenkins-docker를-활용한-CI-CD구축) | |
+|`필수`| :white_check_mark: |4| [부하테스트](부하테스트) | [Jmeter를 이용한 웹페이지 성능 측정](부하테스트/Jmeter를-이용한-웹페이지-성능-측정) | |
 |선택| :white_large_square: |8| [DB](DB) | [관계형 데이터베이스 이해](DB/관계형-데이터베이스-이해) | |
 |선택| :white_large_square: |8| [DB](DB) | [DB설계, ERD 작성 실습](DB/DB설계-ERD-작성-실습) | |
 |선택| :white_large_square: |8| [웹](웹) | [코딩 테스트 채점 서버 만들기](웹/코딩-테스트-채점-서버-만들기) | |
